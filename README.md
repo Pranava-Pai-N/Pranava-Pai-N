@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pranava Pai N</h1>
-<h3 align="center">A Passionate Software Engineer from India</h3>
+<h1 align="center" style="font-family=arial"><b>Hi 👋, I'm Pranava Pai N</b></h1>
+<h3 align="center"><b>A Passionate Software Engineer from India</b></h3>
 <img align="right" alt="Coding Stuff" width="400" src="https://i.pinimg.com/originals/78/63/36/7863362124aee1020dd1784a9f95a4ae.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranava-pai-n&label=Profile%20views&color=0e75b6&style=flat" alt="pranava-pai-n" /> </p>
@@ -7,12 +7,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranava-pai-n" alt="pranava-pai-n" /></a> </p>
 
 - 📫 How to reach me **Pranavpai0309@gmail.com**
+-                     **https://in.linkedin.com/in/pranav-pai-n-563106292**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pranav pai n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav pai n" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/pranav pai n" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pranav pai n" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pranava pai n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pranava pai n" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
