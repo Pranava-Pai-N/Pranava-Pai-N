@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranava-pai-n" alt="pranava-pai-n" /></a> </p>
 
-- 📫 <b>How to reach me **Pranavpai0309@gmail.com
+- 📫 <b>How to reach me target="_blank" **Pranavpai0309@gmail.com
 - https://in.linkedin.com/in/pranav-pai-n-563106292**</b>               
 
 <h3 align="left">Connect with me:</h3>
