@@ -1,13 +1,14 @@
-<h1 align="center" style="font-family=arial"><b>Hi 👋, I'm Pranava Pai N</b></h1>
+<h1 align="center" style="font-family=arial;font-size=18"><b>Hi 👋, I'm Pranava Pai N</b></h1>
 <h3 align="center"><b>A Passionate Software Engineer from India</b></h3>
-<img align="right" alt="Coding Stuff" width="400" src="https://i.pinimg.com/originals/78/63/36/7863362124aee1020dd1784a9f95a4ae.gif">
+<img align="right" alt="Coding Stuff" width="350" src="https://i.pinimg.com/originals/78/63/36/7863362124aee1020dd1784a9f95a4ae.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranava-pai-n&label=Profile%20views&color=0e75b6&style=flat" alt="pranava-pai-n" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranava-pai-n" alt="pranava-pai-n" /></a> </p>
 
-- 📫 How to reach me **Pranavpai0309@gmail.com**
--                     **https://in.linkedin.com/in/pranav-pai-n-563106292**  
+- 📫 <b>How to reach me **Pranavpai0309@gmail.com
+- https://in.linkedin.com/in/pranav-pai-n-563106292**</b>
+-                     
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
