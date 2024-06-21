@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pranava Pai N</h1>
 <h3 align="center">A Passionate Software Engineer from India</h3>
-<img align="right" alt="Coding Stuff" width="400" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif">
+<img align="right" alt="Coding Stuff" width="400" src="https://i.pinimg.com/originals/78/63/36/7863362124aee1020dd1784a9f95a4ae.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranava-pai-n&label=Profile%20views&color=0e75b6&style=flat" alt="pranava-pai-n" /> </p>
 
