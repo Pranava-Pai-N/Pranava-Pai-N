@@ -9,7 +9,7 @@ https://github.com/Pranava-Pai-N/Pranava-Pai-N/blob/main/README.md<h1 align="cen
 
 - 📫 <b>How to reach me: <button>**Pranavpai0309@gmail.com</button>
 - <button>https://in.linkedin.com/in/pranav-pai-n-563106292**</b></button>
-  <h3 align="center"><b><i>I am Currently learning:<</i></b>br><br><img align="centre" width="300" height="300" alt="What I am learing" src="https://biq.cloud/wp-content/uploads/2021/03/355-html-and-CSS.gif"</h3>
+  <h3 align="center"><b>I am Currently learning:</b><br><br><img align="centre" width="300" height="300" alt="What I am learing" src="https://biq.cloud/wp-content/uploads/2021/03/355-html-and-CSS.gif"</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
