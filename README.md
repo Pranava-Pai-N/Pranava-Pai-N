@@ -1,6 +1,6 @@
 https://github.com/Pranava-Pai-N/Pranava-Pai-N/blob/main/README.md<h1 align="center" style="font-family=arial;font-size=18"><b>Hi 👋, I'm Pranava Pai N</b></h1>
 <h2 align="center"><b>A Passionate Software Engineer from India</b></h2>
-<h3 align="center"><b>Enthusiastic developer creating elegant solutions. Let's innovate together!</b></h3>
+<h4 align="center"><b>New programmer eager to learn. Let's code and grow together!</b></h4>
 <img align="right" alt="Coding Stuff" width="350" margin="20px" height="350" src="https://31.media.tumblr.com/890dbb3579d662c3f85d63b092a01498/tumblr_msjepeJzfg1ru39xmo1_500.gif">
 <img align="right" alt="Programming Processing" width="350" margin="20px" height="350" src="https://31.media.tumblr.com/4717a813263f471b0def42d70c835ad5/tumblr_mtw0ojDUCQ1ru39xmo1_500.gif">
 <p align="left"font-color="red",font-family="arial";> <img src="https://komarev.com/ghpvc/?username=pranava-pai-n&label=Profile%20views&color=0e75b6&style=flat" alt="pranava-pai-n" /> </p>
