@@ -1,6 +1,6 @@
-<h1 align="center" style="font-family=arial;font-size=18"><b>Hi 👋, I'm Pranava Pai N</b></h1>
+https://github.com/Pranava-Pai-N/Pranava-Pai-N/blob/main/README.md<h1 align="center" style="font-family=arial;font-size=18"><b>Hi 👋, I'm Pranava Pai N</b></h1>
 <h2 align="center"><b>A Passionate Software Engineer from India</b></h2>
-<img align="right" alt="Coding Stuff" width="350" margin="20px" height="350" src="[https://i.pinimg.com/originals/78/63/36/7863362124aee1020dd1784a9f95a4ae.gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)">
+<img align="right" alt="Coding Stuff" width="350" margin="20px" height="350" src="https://i.pinimg.com/originals/78/63/36/7863362124aee1020dd1784a9f95a4ae.gifhttps://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gifhttps://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gifhttps://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 
 <p align="left"font-color="red",font-family="arial";> <img src="https://komarev.com/ghpvc/?username=pranava-pai-n&label=Profile%20views&color=0e75b6&style=flat" alt="pranava-pai-n" /> </p>
 
