@@ -12,7 +12,8 @@ https://github.com/Pranava-Pai-N/Pranava-Pai-N/blob/main/README.md<h1 align="cen
   <h3 align="center"><b>I am Currently learning:</b><br><br><img align="centre" width="300" height="300" alt="What I am learing" src="https://biq.cloud/wp-content/uploads/2021/03/355-html-and-CSS.gif"</h3>
   <br><br>
   <h2>and</h2><br>
-  <img align="centre" width="300" height="300" alt="What I am learing" src="https://media4.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif?cid=6c09b952qgnf9kg4u5v1miak50qvspp6td1rt07ivvqyb611&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"
+  <h3 align="center"><b>Python</b><br><br><img align="centre" width="300" height="300" alt="Python" src="https://media4.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
