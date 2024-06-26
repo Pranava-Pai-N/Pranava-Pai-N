@@ -1,4 +1,4 @@
-https://github.com/Pranava-Pai-N/Pranava-Pai-N/blob/main/README.md<h1 align="center" style="font-family=arial;font-size=18"><b>Hi 👋, I'm <u>Pranava Pai N<u></b></h1>
+https://github.com/Pranava-Pai-N/Pranava-Pai-N/blob/main/README.md<h1 align="center" style="font-family=arial;font-size=18"><b>Hi 👋, I'm <u>Pranava Pai N</u></b></h1>
 <h2 align="center"><b>A Passionate Software Engineer from India</b></h2>
 <h4 align="center"><b>New programmer eager to learn. Let's code and grow together!</b></h4>
 <img align="right" alt="Coding Stuff" width="350" margin="20px" height="350" src="https://31.media.tumblr.com/890dbb3579d662c3f85d63b092a01498/tumblr_msjepeJzfg1ru39xmo1_500.gif">
