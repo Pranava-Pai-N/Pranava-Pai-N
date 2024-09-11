@@ -26,3 +26,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranava-pai-n&show_icons=true&locale=en&layout=compact" alt="pranava-pai-n" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pranava-pai-n&show_icons=true&locale=en" alt="pranava-pai-n"</p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=" alt="GitHub Streak" /></a>
