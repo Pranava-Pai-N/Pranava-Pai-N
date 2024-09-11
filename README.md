@@ -18,8 +18,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pranav pai n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav pai n" height="30" width="40" /></a>
-<a href="https://github.com/Pranava-Pai-N" target="blank><img align="center" src="https://avatars.githubusercontent.com/u/9919?s=280&v=4" alt="pranav pai n" height="30" width="40" /></a>
-  
+<a href="https://github.com/Pranava-Pai-N" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/9919?s=280&v=4" alt="pranav pai n" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left"><b>Known Languages and Tools:</b></h3>
