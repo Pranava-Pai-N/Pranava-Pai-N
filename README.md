@@ -26,4 +26,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranava-pai-n&show_icons=true&locale=en&layout=compact" alt="pranava-pai-n" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pranava-pai-n&show_icons=true&locale=en" alt="pranava-pai-n"</p><br><br>
-<a align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Pranava-Pai-N&theme=shades-of-purple" alt="GitHub Streak" /></a>
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Pranava-Pai-N&theme=shades-of-purple" alt="GitHub Streak" /></a></p>
