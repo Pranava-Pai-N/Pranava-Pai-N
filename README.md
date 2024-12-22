@@ -8,9 +8,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranava-pai-n" alt="pranava-pai-n" /></a> </p>
 
 - 📫 <b>How to reach me:<br>
-  <button><strong><li>Pranavpai0309@gmail.com</strong></button>
-- <button>https://www.linkedin.com/in/pranav-pai-n-563106292</b></li></button>
-- <button>https://portfoliowebsite-git-main-pranav-pais-projects.vercel.app/</b></li></button>
+  <button target="_blank"><strong><li>Pranavpai0309@gmail.com</strong></button>
+- <button targe="_blank"><strong>https://www.linkedin.com/in/pranav-pai-n-563106292</strong></b></li></button>
+- <button target="_blank"><strong>https://portfoliowebsite-git-main-pranav-pais-projects.vercel.app/</strong></b></li></button>
   <h3 align="center"><b>I am Currently learning:</b><br><br><img align="centre" width="300" height="300" alt="What I am learing" src="https://biq.cloud/wp-content/uploads/2021/03/355-html-and-CSS.gif"</h3>
   <br><br>
   <h2 align="center">and</h2><br>
