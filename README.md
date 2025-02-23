@@ -1,32 +1,58 @@
-<h1 align="center" style="font-family=arial;font-size=18"><b>Hi 👋, I'm Pranava Pai N</b></h1>
-<h2 align="center"><b>A Passionate Software Engineer from Mangalore</b></h2>
-<h4 align="center"><b>New programmer eager to learn. Let's code and grow together!</b></h4>
-<img align="right" alt="Coding Stuff" width="350" margin="20px" height="350" src="https://31.media.tumblr.com/890dbb3579d662c3f85d63b092a01498/tumblr_msjepeJzfg1ru39xmo1_500.gif">
-<img align="right" alt="Programming Processing" width="350" margin="20px" height="350" src="https://31.media.tumblr.com/4717a813263f471b0def42d70c835ad5/tumblr_mtw0ojDUCQ1ru39xmo1_500.gif">
-<p align="left"font-color="red",font-family="arial";> <img src="https://komarev.com/ghpvc/?username=pranava-pai-n&label=Profile%20views&color=0e75b6&style=flat" alt="pranava-pai-n" /> </p>
+<h1 align="center">Hi 👋, I'm Pranav Pai N</h1>
+<h3 align="center">🚀 Passionate Web Developer | Open Source Contributor | Engineering Student</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranava-pai-n" alt="pranava-pai-n" /></a> </p>
-
-- 📫 <b>How to reach me:<br>
-  <button target="_blank"><strong><li>Pranavpai0309@gmail.com</strong></button>
-- <button targe="_blank"><strong>https://www.linkedin.com/in/pranav-pai-n-563106292</strong></b></li></button>
-- <button target="_blank"><strong>https://portfoliowebsite-git-main-pranav-pais-projects.vercel.app/</strong></b></li></button>
-  <h3 align="center"><b>I am Currently learning:</b><br><br><img align="centre" width="300" height="300" alt="What I am learing" src="https://biq.cloud/wp-content/uploads/2021/03/355-html-and-CSS.gif"</h3>
-  <br><br>
-  <h2 align="center">and</h2><br>
-  <h3 align="center"><b>Also</b><br><br><img align="centre" width="300" height="300" alt="Python" src="https://media4.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"</h3>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pranav pai n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav pai n" height="40" width="40" /></a>&nbsp
-<a href="https://github.com/Pranava-Pai-N" target="blank"><img align="center" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="pranav pai n" height="40" width="40" /></a>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;Open+Source+Enthusiast;Passionate+about+Cricket;Lifelong+Learner" alt="Typing SVG" />
 </p>
 
-<h3 align="left"><b>Known Languages and Tools:</b></h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranava-pai-n&show_icons=true&locale=en&layout=compact" alt="pranava-pai-n" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pranava-pai-n&show_icons=true&locale=en" alt="pranava-pai-n"</p><br><br>
-<p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Pranava-Pai-N&theme=shades-of-purple" alt="GitHub Streak" /></a></p>
+### 🏆 **GitHub Stats & Trophies**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pranavpain&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavpain&theme=radical&hide_border=true" width="48%" alt="Streak Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pranavpain&theme=radical&no-frame=true&row=1" width="80%" alt="Trophies">
+</p>
+
+---
+
+### 🧑‍💻 **Tech Stack**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,python,git,github,vscode" alt="Tech Stack" />
+</p>
+
+---
+
+### 📊 **GitHub Activity Graph**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavpain&theme=react-dark&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
+### 🎮 **Fun with GitHub**
+<p align="center">
+  <img src="https://github.com/rajput2107/rajput2107/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+</p>
+
+---
+
+### 🎯 **Let's Connect**
+<p align="center">
+  <a href="https://www.linkedin.com/in/pranav-pai-n-563106292" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://portfoliowebsite-git-main-pranav-pais-projects.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="mailto:pranavpai0309@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+---
+
+🔥 **Thanks for visiting my profile! Keep Coding 🚀**
