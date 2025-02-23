@@ -45,13 +45,13 @@
 ### 🎯 **Let's Connect**
 <p align="center">
   <a href="https://www.linkedin.com/in/pranav-pai-n-563106292" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank">
   </a>
   <a href="https://portfoliowebsite-git-main-pranav-pais-projects.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%231DA1F2.svg?&style=for-the-badge&logo=web&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-%231DA1F2.svg?&style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" target="_blank">
   </a>
   <a href="mailto:pranavpai0309@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" target="_blank">
   </a>
 </p>
 
