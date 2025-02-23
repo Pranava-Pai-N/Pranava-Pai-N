@@ -9,7 +9,7 @@
 
 ### 🏆 **GitHub Stats & Trophies**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranavpain&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranava-Pai-N&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavpain&theme=radical&hide_border=true" width="48%" alt="Streak Stats">
 </p>
 
