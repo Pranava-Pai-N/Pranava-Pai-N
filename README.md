@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pranav Pai N</h1>
+<h1 align="center">Hi 👋, I'm Pranava Pai N</h1>
 <h3 align="center">🚀 Passionate Web Developer | Open Source Contributor | Engineering Student</h3>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 ### 🧑‍💻 **Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,mysql,c,cpp,java" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,c,cpp,java,git,github,vscode" alt="Tech Stack" />
 </p>
 
 ---
