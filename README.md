@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Passionate Web Developer | Open Source Contributor | Engineering Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;Open+Source+Enthusiast;Passionate+about+Cricket;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;Open+Source+Enthusiast;Passionate+about+Cricket;Lifelong+Learner;Tech+Enthusiast;Cyclist;Student" alt="Typing SVG" />
 </p>
 
 ---
