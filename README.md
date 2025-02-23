@@ -28,7 +28,7 @@
 
 ### 📊 **GitHub Activity Graph**
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavpain&theme=react-dark&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranava Pai N&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
