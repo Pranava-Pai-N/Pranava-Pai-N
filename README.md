@@ -35,8 +35,9 @@
 
 ### 🎮 **Fun with GitHub**
 <p align="center">
-  <img src="https://github.com/Pranava-Pai-N/Pranava-Pai-N/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation">
 </p>
+
 
 ---
 
@@ -48,7 +49,7 @@
   <a href="https://portfoliowebsite-git-main-pranav-pais-projects.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%231DA1F2.svg?&style=for-the-badge&logo=web&logoColor=white" alt="Portfolio">
   </a>
-  <a href="mailto:pranavpai0309@gmail.com">
+  <a href="mailto:pranavpai0309@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
