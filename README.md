@@ -35,7 +35,7 @@
 
 ### 🎮 **Fun with GitHub**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Pranava-Pai-N/Pranava-Pai-N/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+  <img src="https://github.com/Pranava-Pai-N/Pranava-Pai-N/blob/output/dist/snake.svg" alt="Snake Animation">
 </p>
 
 
