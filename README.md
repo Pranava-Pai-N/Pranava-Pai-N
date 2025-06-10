@@ -47,7 +47,7 @@
   <a href="https://www.linkedin.com/in/pranav-pai-n-563106292" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank">
   </a>
-  <a href="https://pranavapai.netlify.app" target="_blank">
+  <a href="https://nppai.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%231DA1F2.svg?&style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" target="_blank">
   </a>
   <a href="mailto:pranavpai0309@gmail.com" target="_blank">
