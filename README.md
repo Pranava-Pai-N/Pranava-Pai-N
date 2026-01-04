@@ -23,10 +23,11 @@
 
 
 
-### GitHub Ecosystem & Languages
+### GitHub Repos and Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranava-Pai-N&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pranava-Pai-N&theme=github_dark&exclude={exclude}" width="48%" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranava-Pai-N&theme=github_dark" width="48%" alt="GitHub Repositories" />
 </p>
 
 
