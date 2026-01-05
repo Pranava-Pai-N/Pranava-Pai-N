@@ -28,6 +28,7 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pranava-Pai-N&theme=github_dark&exclude={exclude}" width="48%" alt="Top Languages" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranava-Pai-N&theme=github_dark" width="48%" alt="GitHub Repositories" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Pranava-Pai-N&theme=shadow_black&hide_border=false" width="48%" alt="GitHub Streak" />
 </p>
 
 
