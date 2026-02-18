@@ -49,7 +49,7 @@
   <a href="https://www.linkedin.com/in/pranav-pai-n-563106292/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://simple-portfolio-website-indol.vercel.app" target="_blank">
+  <a href="https://pranava-pai-n.github.io/Pranava-Portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%231DA1F2.svg?&style=for-the-badge&logo=web&logoColor=white" alt="Portfolio">
   </a>
   <a href="mailto:pranavpai0309@gmail.com">
