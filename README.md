@@ -48,7 +48,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranava-Pai-N&theme=react-dark&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
-<p align="center>
+<p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranava-Pai-N&theme=github_dark" width="48%" alt="GitHub Repositories" />
 <img src="https://nirzak-streak-stats.vercel.app/?user=Pranava-Pai-N&theme=dark&hide_border=false" width="48%" alt="GitHub Streak" />
 </p>
