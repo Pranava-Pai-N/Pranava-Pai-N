@@ -5,12 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;ML+%2F+Data+Science+Enthusiast;Open+Source+Contributor;Lifelong+Learner;Tech+Enthusiast;Backend+Developer" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://pranava-pai.live" target="_blank">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/pranav-pai-n-563106292/" target="_blank">LinkedIn</a> •
-  <a href="mailto:pranavpai0309@gmail.com">Email</a>
-</p>
-
 ---
 
 ### My Toolbox
