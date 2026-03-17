@@ -48,6 +48,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranava-Pai-N&theme=react-dark&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranava-Pai-N&theme=github_dark" width="48%" alt="GitHub Repositories" /><br><br/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=Pranava-Pai-N&theme=dark&hide_border=false" width="48%" alt="GitHub Streak" />
+
 ---
 
 ### Contribution Activity
@@ -72,4 +75,4 @@
   </a>
 </p>
 
-<p align="center"><i>"Code is like humor. When you have to explain it, it’s bad."</i></p>
+<p align="center"><i>Code is like humor. When you have to explain it, it’s bad.</i></p>
