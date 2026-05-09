@@ -40,8 +40,7 @@
 ### Statistical Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranava-Pai-N&show_icons=true&theme=react&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranava-Pai-N&layout=compact&theme=react&hide_border=true" width="40%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pranava-Pai-N&theme=github_dark" width="48%" />
 </p>
 
 <p align="center">
